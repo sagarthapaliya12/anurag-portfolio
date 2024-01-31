@@ -10,7 +10,15 @@ or
 ```bash
 yarn install
 ``` 
-Once the dependencies are installed, you can start the development server using npm run dev or yarn dev.
+Once the dependencies are installed, you can start the development server using 
+
+```bash
+npm run dev
+``` 
+ or
+ ```bash
+yarn dev
+``` 
 
 ## Deployment
 
