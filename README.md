@@ -1,7 +1,7 @@
 # Anurag-Portfolio-website
 
 # Getting Started
-
+This is a portfolio website built on Vite, React, and TypeScript.
 To get started with this project, clone the repository to your local machine. After cloning, navigate to the project directory in the terminal and install the necessary dependencies using either 
 ```bash
 npm install
